@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/164/trunk
+END
+sys1.s
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/135/trunk/sys1.s
+END
+tape
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/113/trunk/tape
+END
+simh.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/117/trunk/simh.cfg
+END

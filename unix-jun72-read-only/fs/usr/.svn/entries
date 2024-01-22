@@ -1,0 +1,56 @@
+8
+
+dir
+164
+http://unix-jun72.googlecode.com/svn/trunk/fs/usr
+http://unix-jun72.googlecode.com/svn
+
+
+
+2008-05-06T06:49:26.138612Z
+152
+warren.toomey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+44b2186c-a14b-0410-8c95-595313601b93
+
+lib
+dir
+
+x
+file
+
+
+
+
+2008-05-06T19:12:53.000000Z
+dd2ac4c9936565e3c80802f717cafcfd
+2008-05-06T06:49:26.138612Z
+152
+warren.toomey
+has-props
+
+jack
+dir
+
+fort
+dir
+
+ken
+dir
+
+sys
+dir
+

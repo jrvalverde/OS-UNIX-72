@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/163/trunk/patches
+END
+cold.patch
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/128/trunk/patches/cold.patch
+END
+aout407.patch
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/138/trunk/patches/aout407.patch
+END
+initorig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/135/trunk/patches/initorig.patch
+END
+fastout.patch
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/148/trunk/patches/fastout.patch
+END
+fixV7div.patch
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/128/trunk/patches/fixV7div.patch
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/163/trunk/patches/notes.txt
+END
+vec0407.patch
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/128/trunk/patches/vec0407.patch
+END
+v2_as.patch
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/163/trunk/patches/v2_as.patch
+END
+ecore.patch
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/143/trunk/patches/ecore.patch
+END
+upcase.patch
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/147/trunk/patches/upcase.patch
+END

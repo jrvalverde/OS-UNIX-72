@@ -1,0 +1,61 @@
+8
+
+dir
+164
+http://unix-jun72.googlecode.com/svn/trunk/fs
+http://unix-jun72.googlecode.com/svn
+
+
+
+2008-05-06T09:42:08.891467Z
+162
+warren.toomey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+44b2186c-a14b-0410-8c95-595313601b93
+
+root
+dir
+
+new
+dir
+
+usr
+dir
+
+Readme
+file
+
+
+
+
+2008-05-06T19:12:53.000000Z
+9530191dc6f6bb516d6e61a2e07bea15
+2008-05-06T09:42:08.891467Z
+162
+warren.toomey
+
+README
+file
+
+
+
+
+2008-05-06T19:12:53.000000Z
+9fe9bff00b03986d8f02f9543aaebca7
+2008-05-06T07:22:15.490336Z
+157
+tim.newsham
+

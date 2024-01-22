@@ -1,0 +1,35 @@
+                                                Bell Laboratories
+
+                                                date: September 14, 1972
+subject: Study of UNIX
+                                                from: T. R. Bashkow
+
+    Messrs. W. S. Barlett            Messrs. J. J. Ludwig
+            D. P. Clayton                    J. F. Maranzano
+            D. H. Copp                  Mrs. G. Pettit
+      Mmes. G. J. Hansen             Messrs. J. E. Ritacco
+            J. Hintz                         B. A. Tague
+        Mr. L. J. Kelly                      D. W. Vogel
+       Miss R. L. Klein                 Mrs. L. S. Wright
+
+              On Tuesday, September 19, at 9:30 a.m. in
+
+    Room 2A-418 at Murray Hill, I will give a talk on my study
+
+    of the UNIX operating system. The emphasis will be on the
+
+    structure, functional components, and internal operation
+
+    of the system.
+
+
+    MH-8243-TRB-mbh            T. R. Bashkow
+
+
+    Copy to
+    Mr. G. L. Baldwin
+
+-----------------------------------------------------------------------------
+
+
+    Subject: Preliminary release of

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/150/trunk/tools/disaout
+END
+magic.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/150/trunk/tools/disaout/magic.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/150/trunk/tools/disaout/main.c
+END
+aout.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/150/trunk/tools/disaout/aout.c
+END
+symbols.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/150/trunk/tools/disaout/symbols.c
+END
+opset.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/150/trunk/tools/disaout/opset.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/141/trunk/tools/disaout/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/141/trunk/tools/disaout/README
+END
+aout.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/150/trunk/tools/disaout/aout.h
+END
+syscalls.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/150/trunk/tools/disaout/syscalls.c
+END

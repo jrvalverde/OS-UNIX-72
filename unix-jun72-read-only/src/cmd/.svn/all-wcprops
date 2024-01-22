@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/146/trunk/src/cmd
+END
+ls.s
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/146/trunk/src/cmd/ls.s
+END
+cp.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/146/trunk/src/cmd/cp.c
+END
